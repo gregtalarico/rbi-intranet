@@ -482,7 +482,6 @@
                             	<h4>Greg Talarico</h4>
                                 Client Solutions Analyst<br>                                
                                 w: (630) 288-8327<br>
-                                c: (630) 267-6763<br>
                                 im: greg.elist@hotmail.com<br>
                                 e: <a href="mailto:gregory.talarico@mardevdm2.com">gregory.talarico@mardevdm2.com</a><br>
                             </td>
